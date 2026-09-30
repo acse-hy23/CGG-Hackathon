@@ -1,4 +1,4 @@
-# Core Image Segmentation: GPS × CGG Seismic Hackathon
+# Core Image Segmentation: Imperial GPS × CGG Seismic Hackathon
 
 Team Domino's entry to the GPS × CGG Seismic Hackathon, a one-day event run by the Imperial College London Geophysics Society (GPS) and CGG on 16 March 2024. The event had two challenge tracks; **we won our track and placed 2nd overall.**
 
